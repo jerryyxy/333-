@@ -75,5 +75,5 @@ X = tfidf.fit_transform(corpus)
 ### 代码截图
 <img src="https://github.com/jerryyxy/333-/blob/main/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202025-04-12%20193516.png" />
 <img src="https://github.com/jerryyxy/333-/blob/main/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202025-04-12%20193524.png" />
-<img src="https://github.com/ustin3/-3/blob/main/3.png" alt="图片描述" width = "800" height = "图片长度" />
+<img src="https://github.com/jerryyxy/333-/blob/main/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202025-04-12%20193528.png" />
 <img src="https://github.com/ustin3/-3/blob/main/4.png" alt="图片描述" width = "800" height = "图片长度" />
