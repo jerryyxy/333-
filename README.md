@@ -73,7 +73,7 @@ X = tfidf.fit_transform(corpus)
 | 适用场景  | 简单快速任务  | 长文本或词汇重要性差异大的场景 |
 
 ### 代码截图
-<img src="https://github.com/ustin3/-3/blob/main/1.png" alt="图片描述" width = "800" height = "图片长度" />
+<img src="https://github.com/jerryyxy/333-/blob/main/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202025-04-12%20193516.png" />
 <img src="https://github.com/ustin3/-3/blob/main/2.png" alt="图片描述" width = "800" height = "图片长度" />
 <img src="https://github.com/ustin3/-3/blob/main/3.png" alt="图片描述" width = "800" height = "图片长度" />
 <img src="https://github.com/ustin3/-3/blob/main/4.png" alt="图片描述" width = "800" height = "图片长度" />
